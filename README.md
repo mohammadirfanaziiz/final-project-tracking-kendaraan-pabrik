@@ -1,6 +1,6 @@
 final project semester 4 dengan tema : tracking kendaraan pabrik
 
-anggota kelompok :
+anggota kelompok 29 :
 
 Muhammad Dzaki Nugraha (23416255201139)
 

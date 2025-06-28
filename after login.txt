@@ -1,0 +1,10 @@
+documentation after login fp,maps dengan OpenStreetMap dengan Leaflet.js 
+
+setalah login :
+
+npm install leaflet 
+
+npm install leaflet-routing-machine
+
+composer require pusher/pusher-php-server
+npm install --save laravel-echo pusher-js
